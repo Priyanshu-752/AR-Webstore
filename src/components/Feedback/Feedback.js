@@ -45,10 +45,10 @@ const Feedback = () => {
 
     window.Email.send({
       Host: "smtp.elasticemail.com",
-      Username: "shwetkhatri2001@gmail.com",
+      Username: "priyanshunegi752@gmail.com",
       Password: "BAAF238142FDFE27699F12B3FC14B1A5C9F7",
-      To: "shwetkhatri2001@gmail.com",
-      From: "shwetkhatri2001@gmail.com",
+      To: "priyanshunegi752@gmail.com",
+      From: "priyanshunegi752@gmail.com",
       Subject: "AR-Webstore has got a feedback",
       Body: body,
     }).then((message) => {

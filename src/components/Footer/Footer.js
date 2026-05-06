@@ -25,7 +25,7 @@ function Footer() {
 
         <div className="contact-content">
           <Link to="/feedback"> Feedback </Link>
-          <Link to="mailto:shwetkhatri2001@gmail.com" target="_blank">
+          <Link to="mailto:priyanshunegi752@gmail.com" target="_blank">
             Contact
           </Link>
           <Link to="/"> Tel: 123-456-7890 </Link>
@@ -39,7 +39,7 @@ function Footer() {
             GitHub
           </Link>
           <Link
-            to="https://www.linkedin.com/in/shwet-khatri-4ab216196/"
+            to="https://www.linkedin.com/in/priyanshu-negi-87a56124a/"
             target="_blank"
           >
             LinkedIn
